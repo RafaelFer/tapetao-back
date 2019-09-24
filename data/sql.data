@@ -1,0 +1,10 @@
+    CREATE TABLE `atletas` (
+        `id` int(11) NOT NULL AUTO_INCREMENT,
+       `nome` varchar(255) NOT NULL,
+       `apelido` varchar(3) NOT NULL,
+       `time` varchar(255) NOT NULL,
+       `dataEntrada` DATE,
+       `posicao` text,
+       `descricao` text,
+        PRIMARY KEY (id)
+       );
