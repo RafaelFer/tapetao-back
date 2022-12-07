@@ -15,9 +15,9 @@
   "author": "Rafael F",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.20.1",
     "consign": "^0.1.2",
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "express-validator": "^2.20.8",
     "mysql": "^2.11.1",
     "restify": "^4.1.1",
